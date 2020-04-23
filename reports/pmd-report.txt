@@ -1,0 +1,676 @@
+src/entities/Caminhonetes.java:3:	CommentRequired: Class comments are required
+src/entities/Caminhonetes.java:3:	CommentRequired: Class comments are required
+src/entities/Caminhonetes.java:5:	CommentRequired: Public method and constructor comments are required
+src/entities/Caminhonetes.java:5:	CommentRequired: Public method and constructor comments are required
+src/entities/Caminhonetes.java:5:	MethodArgumentCouldBeFinal: Parameter 'horaChegada' is not assigned and could be declared final
+src/entities/Caminhonetes.java:5:	MethodArgumentCouldBeFinal: Parameter 'horaChegada' is not assigned and could be declared final
+src/entities/Caminhonetes.java:5:	MethodArgumentCouldBeFinal: Parameter 'marca' is not assigned and could be declared final
+src/entities/Caminhonetes.java:5:	MethodArgumentCouldBeFinal: Parameter 'marca' is not assigned and could be declared final
+src/entities/Caminhonetes.java:5:	MethodArgumentCouldBeFinal: Parameter 'minutosChegada' is not assigned and could be declared final
+src/entities/Caminhonetes.java:5:	MethodArgumentCouldBeFinal: Parameter 'minutosChegada' is not assigned and could be declared final
+src/entities/Caminhonetes.java:5:	MethodArgumentCouldBeFinal: Parameter 'modelo' is not assigned and could be declared final
+src/entities/Caminhonetes.java:5:	MethodArgumentCouldBeFinal: Parameter 'modelo' is not assigned and could be declared final
+src/entities/Caminhonetes.java:5:	MethodArgumentCouldBeFinal: Parameter 'placa' is not assigned and could be declared final
+src/entities/Caminhonetes.java:5:	MethodArgumentCouldBeFinal: Parameter 'placa' is not assigned and could be declared final
+src/entities/Carros.java:3:	CommentRequired: Class comments are required
+src/entities/Carros.java:3:	CommentRequired: Class comments are required
+src/entities/Carros.java:5:	CommentRequired: Public method and constructor comments are required
+src/entities/Carros.java:5:	CommentRequired: Public method and constructor comments are required
+src/entities/Carros.java:5:	MethodArgumentCouldBeFinal: Parameter 'horaChegada' is not assigned and could be declared final
+src/entities/Carros.java:5:	MethodArgumentCouldBeFinal: Parameter 'horaChegada' is not assigned and could be declared final
+src/entities/Carros.java:5:	MethodArgumentCouldBeFinal: Parameter 'marca' is not assigned and could be declared final
+src/entities/Carros.java:5:	MethodArgumentCouldBeFinal: Parameter 'marca' is not assigned and could be declared final
+src/entities/Carros.java:5:	MethodArgumentCouldBeFinal: Parameter 'minutosChegada' is not assigned and could be declared final
+src/entities/Carros.java:5:	MethodArgumentCouldBeFinal: Parameter 'minutosChegada' is not assigned and could be declared final
+src/entities/Carros.java:5:	MethodArgumentCouldBeFinal: Parameter 'modelo' is not assigned and could be declared final
+src/entities/Carros.java:5:	MethodArgumentCouldBeFinal: Parameter 'modelo' is not assigned and could be declared final
+src/entities/Carros.java:5:	MethodArgumentCouldBeFinal: Parameter 'placa' is not assigned and could be declared final
+src/entities/Carros.java:5:	MethodArgumentCouldBeFinal: Parameter 'placa' is not assigned and could be declared final
+src/entities/Cliente.java:3:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/entities/Cliente.java:3:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/entities/Cliente.java:3:	CommentRequired: Class comments are required
+src/entities/Cliente.java:3:	CommentRequired: Class comments are required
+src/entities/Cliente.java:4:	CommentRequired: Field comments are required
+src/entities/Cliente.java:4:	CommentRequired: Field comments are required
+src/entities/Cliente.java:4:	UnusedPrivateField: Avoid unused private fields such as 'nome'.
+src/entities/Cliente.java:4:	UnusedPrivateField: Avoid unused private fields such as 'nome'.
+src/entities/Cliente.java:5:	CommentRequired: Field comments are required
+src/entities/Cliente.java:5:	CommentRequired: Field comments are required
+src/entities/Cliente.java:5:	UnusedPrivateField: Avoid unused private fields such as 'documento'.
+src/entities/Cliente.java:5:	UnusedPrivateField: Avoid unused private fields such as 'documento'.
+src/entities/Cliente.java:6:	CommentRequired: Field comments are required
+src/entities/Cliente.java:6:	CommentRequired: Field comments are required
+src/entities/Cliente.java:6:	UnusedPrivateField: Avoid unused private fields such as 'telefone'.
+src/entities/Cliente.java:6:	UnusedPrivateField: Avoid unused private fields such as 'telefone'.
+src/entities/Motocicletas.java:3:	CommentRequired: Class comments are required
+src/entities/Motocicletas.java:3:	CommentRequired: Class comments are required
+src/entities/Motocicletas.java:5:	CommentRequired: Public method and constructor comments are required
+src/entities/Motocicletas.java:5:	CommentRequired: Public method and constructor comments are required
+src/entities/Motocicletas.java:5:	MethodArgumentCouldBeFinal: Parameter 'horaChegada' is not assigned and could be declared final
+src/entities/Motocicletas.java:5:	MethodArgumentCouldBeFinal: Parameter 'horaChegada' is not assigned and could be declared final
+src/entities/Motocicletas.java:5:	MethodArgumentCouldBeFinal: Parameter 'marca' is not assigned and could be declared final
+src/entities/Motocicletas.java:5:	MethodArgumentCouldBeFinal: Parameter 'marca' is not assigned and could be declared final
+src/entities/Motocicletas.java:5:	MethodArgumentCouldBeFinal: Parameter 'minutosChegada' is not assigned and could be declared final
+src/entities/Motocicletas.java:5:	MethodArgumentCouldBeFinal: Parameter 'minutosChegada' is not assigned and could be declared final
+src/entities/Motocicletas.java:5:	MethodArgumentCouldBeFinal: Parameter 'modelo' is not assigned and could be declared final
+src/entities/Motocicletas.java:5:	MethodArgumentCouldBeFinal: Parameter 'modelo' is not assigned and could be declared final
+src/entities/Motocicletas.java:5:	MethodArgumentCouldBeFinal: Parameter 'placa' is not assigned and could be declared final
+src/entities/Motocicletas.java:5:	MethodArgumentCouldBeFinal: Parameter 'placa' is not assigned and could be declared final
+src/entities/RedeEstacionamentos.java:4:	CommentRequired: Class comments are required
+src/entities/RedeEstacionamentos.java:4:	CommentRequired: Class comments are required
+src/entities/RedeEstacionamentos.java:4:	DataClass: The class 'RedeEstacionamentos' is suspected to be a Data Class (WOC=18.182%, NOPA=0, NOAM=8, WMC=16)
+src/entities/RedeEstacionamentos.java:4:	DataClass: The class 'RedeEstacionamentos' is suspected to be a Data Class (WOC=18.182%, NOPA=0, NOAM=8, WMC=16)
+src/entities/RedeEstacionamentos.java:5:	CommentRequired: Field comments are required
+src/entities/RedeEstacionamentos.java:5:	CommentRequired: Field comments are required
+src/entities/RedeEstacionamentos.java:6:	CommentRequired: Field comments are required
+src/entities/RedeEstacionamentos.java:6:	CommentRequired: Field comments are required
+src/entities/RedeEstacionamentos.java:7:	CommentRequired: Field comments are required
+src/entities/RedeEstacionamentos.java:7:	CommentRequired: Field comments are required
+src/entities/RedeEstacionamentos.java:7:	ShortVariable: Avoid variables with short names like v
+src/entities/RedeEstacionamentos.java:7:	ShortVariable: Avoid variables with short names like v
+src/entities/RedeEstacionamentos.java:8:	CommentRequired: Field comments are required
+src/entities/RedeEstacionamentos.java:8:	CommentRequired: Field comments are required
+src/entities/RedeEstacionamentos.java:8:	ShortVariable: Avoid variables with short names like t
+src/entities/RedeEstacionamentos.java:8:	ShortVariable: Avoid variables with short names like t
+src/entities/RedeEstacionamentos.java:9:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/entities/RedeEstacionamentos.java:9:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/entities/RedeEstacionamentos.java:9:	CommentRequired: Field comments are required
+src/entities/RedeEstacionamentos.java:9:	CommentRequired: Field comments are required
+src/entities/RedeEstacionamentos.java:11:	CommentRequired: Public method and constructor comments are required
+src/entities/RedeEstacionamentos.java:11:	CommentRequired: Public method and constructor comments are required
+src/entities/RedeEstacionamentos.java:11:	MethodArgumentCouldBeFinal: Parameter 'nome' is not assigned and could be declared final
+src/entities/RedeEstacionamentos.java:11:	MethodArgumentCouldBeFinal: Parameter 'nome' is not assigned and could be declared final
+src/entities/RedeEstacionamentos.java:11:	MethodArgumentCouldBeFinal: Parameter 'strategy' is not assigned and could be declared final
+src/entities/RedeEstacionamentos.java:11:	MethodArgumentCouldBeFinal: Parameter 'strategy' is not assigned and could be declared final
+src/entities/RedeEstacionamentos.java:16:	CommentRequired: Public method and constructor comments are required
+src/entities/RedeEstacionamentos.java:16:	CommentRequired: Public method and constructor comments are required
+src/entities/RedeEstacionamentos.java:19:	CommentRequired: Public method and constructor comments are required
+src/entities/RedeEstacionamentos.java:19:	CommentRequired: Public method and constructor comments are required
+src/entities/RedeEstacionamentos.java:19:	MethodArgumentCouldBeFinal: Parameter 'horaChegada' is not assigned and could be declared final
+src/entities/RedeEstacionamentos.java:19:	MethodArgumentCouldBeFinal: Parameter 'horaChegada' is not assigned and could be declared final
+src/entities/RedeEstacionamentos.java:19:	MethodArgumentCouldBeFinal: Parameter 'horaSaida' is not assigned and could be declared final
+src/entities/RedeEstacionamentos.java:19:	MethodArgumentCouldBeFinal: Parameter 'horaSaida' is not assigned and could be declared final
+src/entities/RedeEstacionamentos.java:19:	MethodArgumentCouldBeFinal: Parameter 'marca' is not assigned and could be declared final
+src/entities/RedeEstacionamentos.java:19:	MethodArgumentCouldBeFinal: Parameter 'marca' is not assigned and could be declared final
+src/entities/RedeEstacionamentos.java:19:	MethodArgumentCouldBeFinal: Parameter 'minutosChegada' is not assigned and could be declared final
+src/entities/RedeEstacionamentos.java:19:	MethodArgumentCouldBeFinal: Parameter 'minutosChegada' is not assigned and could be declared final
+src/entities/RedeEstacionamentos.java:19:	MethodArgumentCouldBeFinal: Parameter 'minutosSaida' is not assigned and could be declared final
+src/entities/RedeEstacionamentos.java:19:	MethodArgumentCouldBeFinal: Parameter 'minutosSaida' is not assigned and could be declared final
+src/entities/RedeEstacionamentos.java:19:	MethodArgumentCouldBeFinal: Parameter 'nome' is not assigned and could be declared final
+src/entities/RedeEstacionamentos.java:19:	MethodArgumentCouldBeFinal: Parameter 'nome' is not assigned and could be declared final
+src/entities/RedeEstacionamentos.java:19:	MethodArgumentCouldBeFinal: Parameter 'placa' is not assigned and could be declared final
+src/entities/RedeEstacionamentos.java:19:	MethodArgumentCouldBeFinal: Parameter 'placa' is not assigned and could be declared final
+src/entities/RedeEstacionamentos.java:19:	MethodArgumentCouldBeFinal: Parameter 'tipo' is not assigned and could be declared final
+src/entities/RedeEstacionamentos.java:19:	MethodArgumentCouldBeFinal: Parameter 'tipo' is not assigned and could be declared final
+src/entities/RedeEstacionamentos.java:19:	UseObjectForClearerAPI: Rather than using a lot of String arguments, consider using a container object for those values.
+src/entities/RedeEstacionamentos.java:19:	UseObjectForClearerAPI: Rather than using a lot of String arguments, consider using a container object for those values.
+src/entities/RedeEstacionamentos.java:20:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/entities/RedeEstacionamentos.java:20:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/entities/RedeEstacionamentos.java:20:	UseEqualsToCompareStrings: Use equals() to compare strings instead of '==' or '!='
+src/entities/RedeEstacionamentos.java:20:	UseEqualsToCompareStrings: Use equals() to compare strings instead of '==' or '!='
+src/entities/RedeEstacionamentos.java:21:	SystemPrintln: System.out.println is used
+src/entities/RedeEstacionamentos.java:21:	SystemPrintln: System.out.println is used
+src/entities/RedeEstacionamentos.java:24:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/entities/RedeEstacionamentos.java:24:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/entities/RedeEstacionamentos.java:24:	UseEqualsToCompareStrings: Use equals() to compare strings instead of '==' or '!='
+src/entities/RedeEstacionamentos.java:24:	UseEqualsToCompareStrings: Use equals() to compare strings instead of '==' or '!='
+src/entities/RedeEstacionamentos.java:27:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/entities/RedeEstacionamentos.java:27:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/entities/RedeEstacionamentos.java:27:	UseEqualsToCompareStrings: Use equals() to compare strings instead of '==' or '!='
+src/entities/RedeEstacionamentos.java:27:	UseEqualsToCompareStrings: Use equals() to compare strings instead of '==' or '!='
+src/entities/RedeEstacionamentos.java:30:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/entities/RedeEstacionamentos.java:30:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/entities/RedeEstacionamentos.java:30:	UseEqualsToCompareStrings: Use equals() to compare strings instead of '==' or '!='
+src/entities/RedeEstacionamentos.java:30:	UseEqualsToCompareStrings: Use equals() to compare strings instead of '==' or '!='
+src/entities/RedeEstacionamentos.java:33:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/entities/RedeEstacionamentos.java:33:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/entities/RedeEstacionamentos.java:33:	UseEqualsToCompareStrings: Use equals() to compare strings instead of '==' or '!='
+src/entities/RedeEstacionamentos.java:33:	UseEqualsToCompareStrings: Use equals() to compare strings instead of '==' or '!='
+src/entities/RedeEstacionamentos.java:34:	SystemPrintln: System.out.println is used
+src/entities/RedeEstacionamentos.java:34:	SystemPrintln: System.out.println is used
+src/entities/RedeEstacionamentos.java:44:	MethodArgumentCouldBeFinal: Parameter 'nome' is not assigned and could be declared final
+src/entities/RedeEstacionamentos.java:44:	MethodArgumentCouldBeFinal: Parameter 'nome' is not assigned and could be declared final
+src/entities/RedeEstacionamentos.java:50:	MethodArgumentCouldBeFinal: Parameter 'strategy' is not assigned and could be declared final
+src/entities/RedeEstacionamentos.java:50:	MethodArgumentCouldBeFinal: Parameter 'strategy' is not assigned and could be declared final
+src/entities/RedeEstacionamentos.java:57:	MethodArgumentCouldBeFinal: Parameter 'v' is not assigned and could be declared final
+src/entities/RedeEstacionamentos.java:57:	MethodArgumentCouldBeFinal: Parameter 'v' is not assigned and could be declared final
+src/entities/RedeEstacionamentos.java:57:	ShortVariable: Avoid variables with short names like v
+src/entities/RedeEstacionamentos.java:57:	ShortVariable: Avoid variables with short names like v
+src/entities/RedeEstacionamentos.java:63:	MethodArgumentCouldBeFinal: Parameter 't' is not assigned and could be declared final
+src/entities/RedeEstacionamentos.java:63:	MethodArgumentCouldBeFinal: Parameter 't' is not assigned and could be declared final
+src/entities/RedeEstacionamentos.java:63:	ShortVariable: Avoid variables with short names like t
+src/entities/RedeEstacionamentos.java:63:	ShortVariable: Avoid variables with short names like t
+src/entities/Tempo.java:3:	CommentRequired: Class comments are required
+src/entities/Tempo.java:3:	CommentRequired: Class comments are required
+src/entities/Tempo.java:4:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/entities/Tempo.java:4:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/entities/Tempo.java:4:	CommentRequired: Field comments are required
+src/entities/Tempo.java:4:	CommentRequired: Field comments are required
+src/entities/Tempo.java:4:	ImmutableField: Private field 'hora' could be made final; it is only initialized in the declaration or constructor.
+src/entities/Tempo.java:4:	ImmutableField: Private field 'hora' could be made final; it is only initialized in the declaration or constructor.
+src/entities/Tempo.java:5:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/entities/Tempo.java:5:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/entities/Tempo.java:5:	CommentRequired: Field comments are required
+src/entities/Tempo.java:5:	CommentRequired: Field comments are required
+src/entities/Tempo.java:5:	ImmutableField: Private field 'minutos' could be made final; it is only initialized in the declaration or constructor.
+src/entities/Tempo.java:5:	ImmutableField: Private field 'minutos' could be made final; it is only initialized in the declaration or constructor.
+src/entities/Tempo.java:7:	CommentRequired: Public method and constructor comments are required
+src/entities/Tempo.java:7:	CommentRequired: Public method and constructor comments are required
+src/entities/Tempo.java:7:	MethodArgumentCouldBeFinal: Parameter 'hora' is not assigned and could be declared final
+src/entities/Tempo.java:7:	MethodArgumentCouldBeFinal: Parameter 'hora' is not assigned and could be declared final
+src/entities/Tempo.java:7:	MethodArgumentCouldBeFinal: Parameter 'minutos' is not assigned and could be declared final
+src/entities/Tempo.java:7:	MethodArgumentCouldBeFinal: Parameter 'minutos' is not assigned and could be declared final
+src/entities/Veiculo.java:3:	AbstractNaming: Abstract classes should be named AbstractXXX
+src/entities/Veiculo.java:3:	AbstractNaming: Abstract classes should be named AbstractXXX
+src/entities/Veiculo.java:3:	CommentRequired: Class comments are required
+src/entities/Veiculo.java:3:	CommentRequired: Class comments are required
+src/entities/Veiculo.java:3:	DataClass: The class 'Veiculo' is suspected to be a Data Class (WOC=7.692%, NOPA=0, NOAM=11, WMC=13)
+src/entities/Veiculo.java:3:	DataClass: The class 'Veiculo' is suspected to be a Data Class (WOC=7.692%, NOPA=0, NOAM=11, WMC=13)
+src/entities/Veiculo.java:4:	CommentRequired: Field comments are required
+src/entities/Veiculo.java:4:	CommentRequired: Field comments are required
+src/entities/Veiculo.java:5:	CommentRequired: Field comments are required
+src/entities/Veiculo.java:5:	CommentRequired: Field comments are required
+src/entities/Veiculo.java:6:	CommentRequired: Field comments are required
+src/entities/Veiculo.java:6:	CommentRequired: Field comments are required
+src/entities/Veiculo.java:7:	CommentRequired: Field comments are required
+src/entities/Veiculo.java:7:	CommentRequired: Field comments are required
+src/entities/Veiculo.java:8:	CommentRequired: Field comments are required
+src/entities/Veiculo.java:8:	CommentRequired: Field comments are required
+src/entities/Veiculo.java:9:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/entities/Veiculo.java:9:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/entities/Veiculo.java:9:	CommentRequired: Field comments are required
+src/entities/Veiculo.java:9:	CommentRequired: Field comments are required
+src/entities/Veiculo.java:11:	CommentRequired: Public method and constructor comments are required
+src/entities/Veiculo.java:11:	CommentRequired: Public method and constructor comments are required
+src/entities/Veiculo.java:11:	MethodArgumentCouldBeFinal: Parameter 'horaChegada' is not assigned and could be declared final
+src/entities/Veiculo.java:11:	MethodArgumentCouldBeFinal: Parameter 'horaChegada' is not assigned and could be declared final
+src/entities/Veiculo.java:11:	MethodArgumentCouldBeFinal: Parameter 'marca' is not assigned and could be declared final
+src/entities/Veiculo.java:11:	MethodArgumentCouldBeFinal: Parameter 'marca' is not assigned and could be declared final
+src/entities/Veiculo.java:11:	MethodArgumentCouldBeFinal: Parameter 'minutosChegada' is not assigned and could be declared final
+src/entities/Veiculo.java:11:	MethodArgumentCouldBeFinal: Parameter 'minutosChegada' is not assigned and could be declared final
+src/entities/Veiculo.java:11:	MethodArgumentCouldBeFinal: Parameter 'modelo' is not assigned and could be declared final
+src/entities/Veiculo.java:11:	MethodArgumentCouldBeFinal: Parameter 'modelo' is not assigned and could be declared final
+src/entities/Veiculo.java:11:	MethodArgumentCouldBeFinal: Parameter 'placa' is not assigned and could be declared final
+src/entities/Veiculo.java:11:	MethodArgumentCouldBeFinal: Parameter 'placa' is not assigned and could be declared final
+src/entities/Veiculo.java:19:	CommentRequired: Public method and constructor comments are required
+src/entities/Veiculo.java:19:	CommentRequired: Public method and constructor comments are required
+src/entities/Veiculo.java:23:	CommentRequired: Protected method constructor comments are required
+src/entities/Veiculo.java:23:	CommentRequired: Protected method constructor comments are required
+src/entities/Veiculo.java:29:	MethodArgumentCouldBeFinal: Parameter 'placa' is not assigned and could be declared final
+src/entities/Veiculo.java:29:	MethodArgumentCouldBeFinal: Parameter 'placa' is not assigned and could be declared final
+src/entities/Veiculo.java:37:	MethodArgumentCouldBeFinal: Parameter 'marca' is not assigned and could be declared final
+src/entities/Veiculo.java:37:	MethodArgumentCouldBeFinal: Parameter 'marca' is not assigned and could be declared final
+src/entities/Veiculo.java:45:	MethodArgumentCouldBeFinal: Parameter 'modelo' is not assigned and could be declared final
+src/entities/Veiculo.java:45:	MethodArgumentCouldBeFinal: Parameter 'modelo' is not assigned and could be declared final
+src/entities/Veiculo.java:53:	MethodArgumentCouldBeFinal: Parameter 'horaChegada' is not assigned and could be declared final
+src/entities/Veiculo.java:53:	MethodArgumentCouldBeFinal: Parameter 'horaChegada' is not assigned and could be declared final
+src/entities/Veiculo.java:61:	MethodArgumentCouldBeFinal: Parameter 'minutosChegada' is not assigned and could be declared final
+src/entities/Veiculo.java:61:	MethodArgumentCouldBeFinal: Parameter 'minutosChegada' is not assigned and could be declared final
+src/interfaces/InterfaceCalculoPreco.java:5:	CommentRequired: Class comments are required
+src/interfaces/InterfaceCalculoPreco.java:5:	CommentRequired: Class comments are required
+src/interfaces/InterfaceCalculoPreco.java:6:	CommentRequired: Public method and constructor comments are required
+src/interfaces/InterfaceCalculoPreco.java:6:	CommentRequired: Public method and constructor comments are required
+src/interfaces/InterfaceCalculoPreco.java:6:	ShortVariable: Avoid variables with short names like t
+src/interfaces/InterfaceCalculoPreco.java:6:	ShortVariable: Avoid variables with short names like t
+src/interfaces/InterfaceCalculoPreco.java:6:	ShortVariable: Avoid variables with short names like v
+src/interfaces/InterfaceCalculoPreco.java:6:	ShortVariable: Avoid variables with short names like v
+src/interfaces/InterfaceCalculoPreco.java:6:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'calcular': the method is declared in an interface type
+src/interfaces/InterfaceCalculoPreco.java:6:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'calcular': the method is declared in an interface type
+src/interfaces/InterfaceCalculoPreco.java:7:	CommentRequired: Public method and constructor comments are required
+src/interfaces/InterfaceCalculoPreco.java:7:	CommentRequired: Public method and constructor comments are required
+src/interfaces/InterfaceCalculoPreco.java:7:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'isNull': the method is declared in an interface type
+src/interfaces/InterfaceCalculoPreco.java:7:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'isNull': the method is declared in an interface type
+src/interfaces/Observer.java:3:	CommentRequired: Class comments are required
+src/interfaces/Observer.java:3:	CommentRequired: Class comments are required
+src/interfaces/Observer.java:4:	CommentRequired: Public method and constructor comments are required
+src/interfaces/Observer.java:4:	CommentRequired: Public method and constructor comments are required
+src/interfaces/Observer.java:4:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'update': the method is declared in an interface type
+src/interfaces/Observer.java:4:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'update': the method is declared in an interface type
+src/interfaces/ParquimetroState.java:3:	CommentRequired: Class comments are required
+src/interfaces/ParquimetroState.java:3:	CommentRequired: Class comments are required
+src/interfaces/ParquimetroState.java:5:	CommentRequired: Public method and constructor comments are required
+src/interfaces/ParquimetroState.java:5:	CommentRequired: Public method and constructor comments are required
+src/interfaces/ParquimetroState.java:6:	CommentRequired: Public method and constructor comments are required
+src/interfaces/ParquimetroState.java:6:	CommentRequired: Public method and constructor comments are required
+src/interfaces/ParquimetroState.java:7:	CommentRequired: Public method and constructor comments are required
+src/interfaces/ParquimetroState.java:7:	CommentRequired: Public method and constructor comments are required
+src/interfaces/ParquimetroState.java:8:	CommentRequired: Public method and constructor comments are required
+src/interfaces/ParquimetroState.java:8:	CommentRequired: Public method and constructor comments are required
+src/interfaces/Subject.java:3:	CommentRequired: Class comments are required
+src/interfaces/Subject.java:3:	CommentRequired: Class comments are required
+src/interfaces/Subject.java:4:	CommentRequired: Public method and constructor comments are required
+src/interfaces/Subject.java:4:	CommentRequired: Public method and constructor comments are required
+src/interfaces/Subject.java:4:	ShortVariable: Avoid variables with short names like o
+src/interfaces/Subject.java:4:	ShortVariable: Avoid variables with short names like o
+src/interfaces/Subject.java:4:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'register': the method is declared in an interface type
+src/interfaces/Subject.java:4:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'register': the method is declared in an interface type
+src/interfaces/Subject.java:5:	CommentRequired: Public method and constructor comments are required
+src/interfaces/Subject.java:5:	CommentRequired: Public method and constructor comments are required
+src/interfaces/Subject.java:5:	ShortVariable: Avoid variables with short names like o
+src/interfaces/Subject.java:5:	ShortVariable: Avoid variables with short names like o
+src/interfaces/Subject.java:5:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'unregister': the method is declared in an interface type
+src/interfaces/Subject.java:5:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'unregister': the method is declared in an interface type
+src/interfaces/Subject.java:6:	CommentRequired: Public method and constructor comments are required
+src/interfaces/Subject.java:6:	CommentRequired: Public method and constructor comments are required
+src/interfaces/Subject.java:6:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'notifyObserver': the method is declared in an interface type
+src/interfaces/Subject.java:6:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'notifyObserver': the method is declared in an interface type
+src/main.java:9:	CommentRequired: Class comments are required
+src/main.java:9:	CommentRequired: Class comments are required
+src/main.java:9:	NoPackage: All classes, interfaces, enums and annotations must belong to a named package
+src/main.java:9:	NoPackage: All classes, interfaces, enums and annotations must belong to a named package
+src/main.java:9:	ShortClassName: Avoid short class names like main
+src/main.java:9:	ShortClassName: Avoid short class names like main
+src/main.java:9:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/main.java:9:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/main.java:11:	CommentRequired: Public method and constructor comments are required
+src/main.java:11:	CommentRequired: Public method and constructor comments are required
+src/main.java:11:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main.java:11:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main.java:13:	LocalVariableCouldBeFinal: Local variable 'rotativoMafra' could be declared final
+src/main.java:13:	LocalVariableCouldBeFinal: Local variable 'rotativoMafra' could be declared final
+src/main.java:15:	AvoidDuplicateLiterals: The String literal "null" appears 4 times in this file; the first occurrence is on line 15
+src/main.java:15:	AvoidDuplicateLiterals: The String literal "null" appears 4 times in this file; the first occurrence is on line 15
+src/main.java:16:	AvoidDuplicateLiterals: The String literal " reais" appears 5 times in this file; the first occurrence is on line 16
+src/main.java:16:	AvoidDuplicateLiterals: The String literal " reais" appears 5 times in this file; the first occurrence is on line 16
+src/main.java:16:	SystemPrintln: System.out.println is used
+src/main.java:16:	SystemPrintln: System.out.println is used
+src/main.java:19:	AvoidDuplicateLiterals: The String literal "AIQ5020" appears 4 times in this file; the first occurrence is on line 19
+src/main.java:19:	AvoidDuplicateLiterals: The String literal "AIQ5020" appears 4 times in this file; the first occurrence is on line 19
+src/main.java:20:	SystemPrintln: System.out.println is used
+src/main.java:20:	SystemPrintln: System.out.println is used
+src/main.java:24:	SystemPrintln: System.out.println is used
+src/main.java:24:	SystemPrintln: System.out.println is used
+src/main.java:28:	SystemPrintln: System.out.println is used
+src/main.java:28:	SystemPrintln: System.out.println is used
+src/main.java:31:	SystemPrintln: System.out.println is used
+src/main.java:31:	SystemPrintln: System.out.println is used
+src/main.java:34:	LocalVariableCouldBeFinal: Local variable 'checar' could be declared final
+src/main.java:34:	LocalVariableCouldBeFinal: Local variable 'checar' could be declared final
+src/main.java:35:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'atualizar' (lines '35'-'54').
+src/main.java:35:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'atualizar' (lines '35'-'54').
+src/main.java:35:	LocalVariableCouldBeFinal: Local variable 'atualizar' could be declared final
+src/main.java:35:	LocalVariableCouldBeFinal: Local variable 'atualizar' could be declared final
+src/main.java:35:	UnusedLocalVariable: Avoid unused local variables such as 'atualizar'.
+src/main.java:35:	UnusedLocalVariable: Avoid unused local variables such as 'atualizar'.
+src/main.java:41:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'atualizar2' (lines '41'-'54').
+src/main.java:41:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'atualizar2' (lines '41'-'54').
+src/main.java:41:	LocalVariableCouldBeFinal: Local variable 'atualizar2' could be declared final
+src/main.java:41:	LocalVariableCouldBeFinal: Local variable 'atualizar2' could be declared final
+src/main.java:41:	UnusedLocalVariable: Avoid unused local variables such as 'atualizar2'.
+src/main.java:41:	UnusedLocalVariable: Avoid unused local variables such as 'atualizar2'.
+src/main.java:46:	LocalVariableCouldBeFinal: Local variable 'maquina' could be declared final
+src/main.java:46:	LocalVariableCouldBeFinal: Local variable 'maquina' could be declared final
+src/main.java:48:	SystemPrintln: System.out.println is used
+src/main.java:48:	SystemPrintln: System.out.println is used
+src/observer/AtualizaVagas.java:6:	CommentRequired: Class comments are required
+src/observer/AtualizaVagas.java:6:	CommentRequired: Class comments are required
+src/observer/AtualizaVagas.java:7:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/observer/AtualizaVagas.java:7:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/observer/AtualizaVagas.java:7:	CommentRequired: Field comments are required
+src/observer/AtualizaVagas.java:7:	CommentRequired: Field comments are required
+src/observer/AtualizaVagas.java:8:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/observer/AtualizaVagas.java:8:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/observer/AtualizaVagas.java:8:	CommentRequired: Field comments are required
+src/observer/AtualizaVagas.java:8:	CommentRequired: Field comments are required
+src/observer/AtualizaVagas.java:10:	CommentRequired: Field comments are required
+src/observer/AtualizaVagas.java:10:	CommentRequired: Field comments are required
+src/observer/AtualizaVagas.java:10:	RedundantFieldInitializer: Avoid using redundant field initializer for 'observerIDTracker'
+src/observer/AtualizaVagas.java:10:	RedundantFieldInitializer: Avoid using redundant field initializer for 'observerIDTracker'
+src/observer/AtualizaVagas.java:12:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/observer/AtualizaVagas.java:12:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/observer/AtualizaVagas.java:12:	CommentRequired: Field comments are required
+src/observer/AtualizaVagas.java:12:	CommentRequired: Field comments are required
+src/observer/AtualizaVagas.java:12:	ImmutableField: Private field 'observerID' could be made final; it is only initialized in the declaration or constructor.
+src/observer/AtualizaVagas.java:12:	ImmutableField: Private field 'observerID' could be made final; it is only initialized in the declaration or constructor.
+src/observer/AtualizaVagas.java:14:	AvoidFieldNameMatchingTypeName: It is somewhat confusing to have a field name matching the declaring class name
+src/observer/AtualizaVagas.java:14:	AvoidFieldNameMatchingTypeName: It is somewhat confusing to have a field name matching the declaring class name
+src/observer/AtualizaVagas.java:14:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/observer/AtualizaVagas.java:14:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/observer/AtualizaVagas.java:14:	CommentRequired: Field comments are required
+src/observer/AtualizaVagas.java:14:	CommentRequired: Field comments are required
+src/observer/AtualizaVagas.java:14:	ImmutableField: Private field 'atualizaVagas' could be made final; it is only initialized in the declaration or constructor.
+src/observer/AtualizaVagas.java:14:	ImmutableField: Private field 'atualizaVagas' could be made final; it is only initialized in the declaration or constructor.
+src/observer/AtualizaVagas.java:14:	SingularField: Perhaps 'atualizaVagas' could be replaced by a local variable.
+src/observer/AtualizaVagas.java:14:	SingularField: Perhaps 'atualizaVagas' could be replaced by a local variable.
+src/observer/AtualizaVagas.java:14:	UnusedPrivateField: Avoid unused private fields such as 'atualizaVagas'.
+src/observer/AtualizaVagas.java:14:	UnusedPrivateField: Avoid unused private fields such as 'atualizaVagas'.
+src/observer/AtualizaVagas.java:17:	CommentRequired: Public method and constructor comments are required
+src/observer/AtualizaVagas.java:17:	CommentRequired: Public method and constructor comments are required
+src/observer/AtualizaVagas.java:17:	MethodArgumentCouldBeFinal: Parameter 'atualizaVagas' is not assigned and could be declared final
+src/observer/AtualizaVagas.java:17:	MethodArgumentCouldBeFinal: Parameter 'atualizaVagas' is not assigned and could be declared final
+src/observer/AtualizaVagas.java:21:	SystemPrintln: System.out.println is used
+src/observer/AtualizaVagas.java:21:	SystemPrintln: System.out.println is used
+src/observer/AtualizaVagas.java:27:	MethodArgumentCouldBeFinal: Parameter 'status' is not assigned and could be declared final
+src/observer/AtualizaVagas.java:27:	MethodArgumentCouldBeFinal: Parameter 'status' is not assigned and could be declared final
+src/observer/AtualizaVagas.java:27:	MethodArgumentCouldBeFinal: Parameter 'vaga' is not assigned and could be declared final
+src/observer/AtualizaVagas.java:27:	MethodArgumentCouldBeFinal: Parameter 'vaga' is not assigned and could be declared final
+src/observer/AtualizaVagas.java:34:	CommentRequired: Public method and constructor comments are required
+src/observer/AtualizaVagas.java:34:	CommentRequired: Public method and constructor comments are required
+src/observer/AtualizaVagas.java:35:	SystemPrintln: System.out.println is used
+src/observer/AtualizaVagas.java:35:	SystemPrintln: System.out.println is used
+src/observer/ChecaVagas.java:8:	CommentRequired: Class comments are required
+src/observer/ChecaVagas.java:8:	CommentRequired: Class comments are required
+src/observer/ChecaVagas.java:10:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/observer/ChecaVagas.java:10:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/observer/ChecaVagas.java:10:	CommentRequired: Field comments are required
+src/observer/ChecaVagas.java:10:	CommentRequired: Field comments are required
+src/observer/ChecaVagas.java:10:	ImmutableField: Private field 'observers' could be made final; it is only initialized in the declaration or constructor.
+src/observer/ChecaVagas.java:10:	ImmutableField: Private field 'observers' could be made final; it is only initialized in the declaration or constructor.
+src/observer/ChecaVagas.java:10:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/observer/ChecaVagas.java:10:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/observer/ChecaVagas.java:11:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/observer/ChecaVagas.java:11:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/observer/ChecaVagas.java:11:	CommentRequired: Field comments are required
+src/observer/ChecaVagas.java:11:	CommentRequired: Field comments are required
+src/observer/ChecaVagas.java:12:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/observer/ChecaVagas.java:12:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/observer/ChecaVagas.java:12:	CommentRequired: Field comments are required
+src/observer/ChecaVagas.java:12:	CommentRequired: Field comments are required
+src/observer/ChecaVagas.java:14:	CommentRequired: Public method and constructor comments are required
+src/observer/ChecaVagas.java:14:	CommentRequired: Public method and constructor comments are required
+src/observer/ChecaVagas.java:15:	UseDiamondOperator: Explicit type arguments can be replaced by Diamond Operator
+src/observer/ChecaVagas.java:15:	UseDiamondOperator: Explicit type arguments can be replaced by Diamond Operator
+src/observer/ChecaVagas.java:19:	MethodArgumentCouldBeFinal: Parameter 'newObserver' is not assigned and could be declared final
+src/observer/ChecaVagas.java:19:	MethodArgumentCouldBeFinal: Parameter 'newObserver' is not assigned and could be declared final
+src/observer/ChecaVagas.java:25:	MethodArgumentCouldBeFinal: Parameter 'deleteObserver' is not assigned and could be declared final
+src/observer/ChecaVagas.java:25:	MethodArgumentCouldBeFinal: Parameter 'deleteObserver' is not assigned and could be declared final
+src/observer/ChecaVagas.java:26:	LocalVariableCouldBeFinal: Local variable 'observerIndex' could be declared final
+src/observer/ChecaVagas.java:26:	LocalVariableCouldBeFinal: Local variable 'observerIndex' could be declared final
+src/observer/ChecaVagas.java:28:	SystemPrintln: System.out.println is used
+src/observer/ChecaVagas.java:28:	SystemPrintln: System.out.println is used
+src/observer/ChecaVagas.java:34:	LocalVariableCouldBeFinal: Local variable 'observer' could be declared final
+src/observer/ChecaVagas.java:34:	LocalVariableCouldBeFinal: Local variable 'observer' could be declared final
+src/observer/ChecaVagas.java:39:	CommentRequired: Public method and constructor comments are required
+src/observer/ChecaVagas.java:39:	CommentRequired: Public method and constructor comments are required
+src/observer/ChecaVagas.java:39:	MethodArgumentCouldBeFinal: Parameter 'status' is not assigned and could be declared final
+src/observer/ChecaVagas.java:39:	MethodArgumentCouldBeFinal: Parameter 'status' is not assigned and could be declared final
+src/observer/ChecaVagas.java:39:	MethodArgumentCouldBeFinal: Parameter 'vaga' is not assigned and could be declared final
+src/observer/ChecaVagas.java:39:	MethodArgumentCouldBeFinal: Parameter 'vaga' is not assigned and could be declared final
+src/state/CartaoIn.java:5:	CommentRequired: Class comments are required
+src/state/CartaoIn.java:5:	CommentRequired: Class comments are required
+src/state/CartaoIn.java:7:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/state/CartaoIn.java:7:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/state/CartaoIn.java:7:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the maquina field if you want a default access modifier
+src/state/CartaoIn.java:7:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the maquina field if you want a default access modifier
+src/state/CartaoIn.java:7:	CommentRequired: Field comments are required
+src/state/CartaoIn.java:7:	CommentRequired: Field comments are required
+src/state/CartaoIn.java:7:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/state/CartaoIn.java:7:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/state/CartaoIn.java:9:	CommentRequired: Public method and constructor comments are required
+src/state/CartaoIn.java:9:	CommentRequired: Public method and constructor comments are required
+src/state/CartaoIn.java:9:	MethodArgumentCouldBeFinal: Parameter 'newMaquina' is not assigned and could be declared final
+src/state/CartaoIn.java:9:	MethodArgumentCouldBeFinal: Parameter 'newMaquina' is not assigned and could be declared final
+src/state/CartaoIn.java:15:	MethodArgumentCouldBeFinal: Parameter 'dinheiro' is not assigned and could be declared final
+src/state/CartaoIn.java:15:	MethodArgumentCouldBeFinal: Parameter 'dinheiro' is not assigned and could be declared final
+src/state/CartaoIn.java:16:	SystemPrintln: System.out.println is used
+src/state/CartaoIn.java:16:	SystemPrintln: System.out.println is used
+src/state/CartaoIn.java:22:	SystemPrintln: System.out.println is used
+src/state/CartaoIn.java:22:	SystemPrintln: System.out.println is used
+src/state/CartaoIn.java:27:	SystemPrintln: System.out.println is used
+src/state/CartaoIn.java:27:	SystemPrintln: System.out.println is used
+src/state/CartaoIn.java:32:	MethodArgumentCouldBeFinal: Parameter 'senha' is not assigned and could be declared final
+src/state/CartaoIn.java:32:	MethodArgumentCouldBeFinal: Parameter 'senha' is not assigned and could be declared final
+src/state/CartaoIn.java:33:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/state/CartaoIn.java:33:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/state/CartaoIn.java:34:	SystemPrintln: System.out.println is used
+src/state/CartaoIn.java:34:	SystemPrintln: System.out.println is used
+src/state/CartaoIn.java:38:	SystemPrintln: System.out.println is used
+src/state/CartaoIn.java:38:	SystemPrintln: System.out.println is used
+src/state/CartaoOut.java:5:	CommentRequired: Class comments are required
+src/state/CartaoOut.java:5:	CommentRequired: Class comments are required
+src/state/CartaoOut.java:7:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/state/CartaoOut.java:7:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/state/CartaoOut.java:7:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the maquina field if you want a default access modifier
+src/state/CartaoOut.java:7:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the maquina field if you want a default access modifier
+src/state/CartaoOut.java:7:	CommentRequired: Field comments are required
+src/state/CartaoOut.java:7:	CommentRequired: Field comments are required
+src/state/CartaoOut.java:7:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/state/CartaoOut.java:7:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/state/CartaoOut.java:9:	CommentRequired: Public method and constructor comments are required
+src/state/CartaoOut.java:9:	CommentRequired: Public method and constructor comments are required
+src/state/CartaoOut.java:9:	MethodArgumentCouldBeFinal: Parameter 'newMaquina' is not assigned and could be declared final
+src/state/CartaoOut.java:9:	MethodArgumentCouldBeFinal: Parameter 'newMaquina' is not assigned and could be declared final
+src/state/CartaoOut.java:16:	MethodArgumentCouldBeFinal: Parameter 'dinheiro' is not assigned and could be declared final
+src/state/CartaoOut.java:16:	MethodArgumentCouldBeFinal: Parameter 'dinheiro' is not assigned and could be declared final
+src/state/CartaoOut.java:17:	SystemPrintln: System.out.println is used
+src/state/CartaoOut.java:17:	SystemPrintln: System.out.println is used
+src/state/CartaoOut.java:23:	SystemPrintln: System.out.println is used
+src/state/CartaoOut.java:23:	SystemPrintln: System.out.println is used
+src/state/CartaoOut.java:30:	SystemPrintln: System.out.println is used
+src/state/CartaoOut.java:30:	SystemPrintln: System.out.println is used
+src/state/CartaoOut.java:36:	MethodArgumentCouldBeFinal: Parameter 'senha' is not assigned and could be declared final
+src/state/CartaoOut.java:36:	MethodArgumentCouldBeFinal: Parameter 'senha' is not assigned and could be declared final
+src/state/CartaoOut.java:37:	SystemPrintln: System.out.println is used
+src/state/CartaoOut.java:37:	SystemPrintln: System.out.println is used
+src/state/ParquimetroMaquina.java:5:	CommentRequired: Class comments are required
+src/state/ParquimetroMaquina.java:5:	CommentRequired: Class comments are required
+src/state/ParquimetroMaquina.java:7:	AvoidFieldNameMatchingMethodName: Field cartaoIn has the same name as a method
+src/state/ParquimetroMaquina.java:7:	AvoidFieldNameMatchingMethodName: Field cartaoIn has the same name as a method
+src/state/ParquimetroMaquina.java:7:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/state/ParquimetroMaquina.java:7:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/state/ParquimetroMaquina.java:7:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the cartaoIn field if you want a default access modifier
+src/state/ParquimetroMaquina.java:7:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the cartaoIn field if you want a default access modifier
+src/state/ParquimetroMaquina.java:7:	CommentRequired: Field comments are required
+src/state/ParquimetroMaquina.java:7:	CommentRequired: Field comments are required
+src/state/ParquimetroMaquina.java:7:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/state/ParquimetroMaquina.java:7:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/state/ParquimetroMaquina.java:8:	AvoidFieldNameMatchingMethodName: Field cartaoOut has the same name as a method
+src/state/ParquimetroMaquina.java:8:	AvoidFieldNameMatchingMethodName: Field cartaoOut has the same name as a method
+src/state/ParquimetroMaquina.java:8:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/state/ParquimetroMaquina.java:8:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/state/ParquimetroMaquina.java:8:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the cartaoOut field if you want a default access modifier
+src/state/ParquimetroMaquina.java:8:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the cartaoOut field if you want a default access modifier
+src/state/ParquimetroMaquina.java:8:	CommentRequired: Field comments are required
+src/state/ParquimetroMaquina.java:8:	CommentRequired: Field comments are required
+src/state/ParquimetroMaquina.java:8:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/state/ParquimetroMaquina.java:8:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/state/ParquimetroMaquina.java:9:	AvoidFieldNameMatchingMethodName: Field senhaOk has the same name as a method
+src/state/ParquimetroMaquina.java:9:	AvoidFieldNameMatchingMethodName: Field senhaOk has the same name as a method
+src/state/ParquimetroMaquina.java:9:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/state/ParquimetroMaquina.java:9:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/state/ParquimetroMaquina.java:9:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the senhaOk field if you want a default access modifier
+src/state/ParquimetroMaquina.java:9:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the senhaOk field if you want a default access modifier
+src/state/ParquimetroMaquina.java:9:	CommentRequired: Field comments are required
+src/state/ParquimetroMaquina.java:9:	CommentRequired: Field comments are required
+src/state/ParquimetroMaquina.java:9:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/state/ParquimetroMaquina.java:9:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/state/ParquimetroMaquina.java:10:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/state/ParquimetroMaquina.java:10:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/state/ParquimetroMaquina.java:10:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the semPapel field if you want a default access modifier
+src/state/ParquimetroMaquina.java:10:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the semPapel field if you want a default access modifier
+src/state/ParquimetroMaquina.java:10:	CommentRequired: Field comments are required
+src/state/ParquimetroMaquina.java:10:	CommentRequired: Field comments are required
+src/state/ParquimetroMaquina.java:10:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/state/ParquimetroMaquina.java:10:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/state/ParquimetroMaquina.java:12:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the parquimetroEstado field if you want a default access modifier
+src/state/ParquimetroMaquina.java:12:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the parquimetroEstado field if you want a default access modifier
+src/state/ParquimetroMaquina.java:12:	CommentRequired: Field comments are required
+src/state/ParquimetroMaquina.java:12:	CommentRequired: Field comments are required
+src/state/ParquimetroMaquina.java:12:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/state/ParquimetroMaquina.java:12:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/state/ParquimetroMaquina.java:14:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the papelDisponivel field if you want a default access modifier
+src/state/ParquimetroMaquina.java:14:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the papelDisponivel field if you want a default access modifier
+src/state/ParquimetroMaquina.java:14:	CommentRequired: Field comments are required
+src/state/ParquimetroMaquina.java:14:	CommentRequired: Field comments are required
+src/state/ParquimetroMaquina.java:14:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/state/ParquimetroMaquina.java:14:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/state/ParquimetroMaquina.java:15:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/state/ParquimetroMaquina.java:15:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/state/ParquimetroMaquina.java:15:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the senhaCorreta field if you want a default access modifier
+src/state/ParquimetroMaquina.java:15:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the senhaCorreta field if you want a default access modifier
+src/state/ParquimetroMaquina.java:15:	CommentRequired: Field comments are required
+src/state/ParquimetroMaquina.java:15:	CommentRequired: Field comments are required
+src/state/ParquimetroMaquina.java:15:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/state/ParquimetroMaquina.java:15:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/state/ParquimetroMaquina.java:15:	RedundantFieldInitializer: Avoid using redundant field initializer for 'senhaCorreta'
+src/state/ParquimetroMaquina.java:15:	RedundantFieldInitializer: Avoid using redundant field initializer for 'senhaCorreta'
+src/state/ParquimetroMaquina.java:16:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the valor field if you want a default access modifier
+src/state/ParquimetroMaquina.java:16:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the valor field if you want a default access modifier
+src/state/ParquimetroMaquina.java:16:	CommentRequired: Field comments are required
+src/state/ParquimetroMaquina.java:16:	CommentRequired: Field comments are required
+src/state/ParquimetroMaquina.java:16:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/state/ParquimetroMaquina.java:16:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/state/ParquimetroMaquina.java:49:	CommentRequired: Public method and constructor comments are required
+src/state/ParquimetroMaquina.java:49:	CommentRequired: Public method and constructor comments are required
+src/state/ParquimetroMaquina.java:65:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the setParquimetroEstado method if you want a default access modifier
+src/state/ParquimetroMaquina.java:65:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the setParquimetroEstado method if you want a default access modifier
+src/state/ParquimetroMaquina.java:65:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/state/ParquimetroMaquina.java:65:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/state/ParquimetroMaquina.java:65:	MethodArgumentCouldBeFinal: Parameter 'novoEstado' is not assigned and could be declared final
+src/state/ParquimetroMaquina.java:65:	MethodArgumentCouldBeFinal: Parameter 'novoEstado' is not assigned and could be declared final
+src/state/ParquimetroMaquina.java:68:	MethodArgumentCouldBeFinal: Parameter 'novoValor' is not assigned and could be declared final
+src/state/ParquimetroMaquina.java:68:	MethodArgumentCouldBeFinal: Parameter 'novoValor' is not assigned and could be declared final
+src/state/ParquimetroMaquina.java:71:	MethodArgumentCouldBeFinal: Parameter 'papelDisponivel' is not assigned and could be declared final
+src/state/ParquimetroMaquina.java:71:	MethodArgumentCouldBeFinal: Parameter 'papelDisponivel' is not assigned and could be declared final
+src/state/ParquimetroMaquina.java:74:	CommentRequired: Public method and constructor comments are required
+src/state/ParquimetroMaquina.java:74:	CommentRequired: Public method and constructor comments are required
+src/state/ParquimetroMaquina.java:77:	CommentRequired: Public method and constructor comments are required
+src/state/ParquimetroMaquina.java:77:	CommentRequired: Public method and constructor comments are required
+src/state/ParquimetroMaquina.java:80:	MethodArgumentCouldBeFinal: Parameter 'senha' is not assigned and could be declared final
+src/state/ParquimetroMaquina.java:80:	MethodArgumentCouldBeFinal: Parameter 'senha' is not assigned and could be declared final
+src/state/ParquimetroMaquina.java:83:	CommentRequired: Public method and constructor comments are required
+src/state/ParquimetroMaquina.java:83:	CommentRequired: Public method and constructor comments are required
+src/state/ParquimetroMaquina.java:87:	CommentRequired: Public method and constructor comments are required
+src/state/ParquimetroMaquina.java:87:	CommentRequired: Public method and constructor comments are required
+src/state/ParquimetroMaquina.java:90:	CommentRequired: Public method and constructor comments are required
+src/state/ParquimetroMaquina.java:90:	CommentRequired: Public method and constructor comments are required
+src/state/ParquimetroMaquina.java:93:	CommentRequired: Public method and constructor comments are required
+src/state/ParquimetroMaquina.java:93:	CommentRequired: Public method and constructor comments are required
+src/state/ParquimetroMaquina.java:96:	CommentRequired: Public method and constructor comments are required
+src/state/ParquimetroMaquina.java:96:	CommentRequired: Public method and constructor comments are required
+src/state/SemPapel.java:5:	CommentRequired: Class comments are required
+src/state/SemPapel.java:5:	CommentRequired: Class comments are required
+src/state/SemPapel.java:7:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/state/SemPapel.java:7:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/state/SemPapel.java:7:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the maquina field if you want a default access modifier
+src/state/SemPapel.java:7:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the maquina field if you want a default access modifier
+src/state/SemPapel.java:7:	CommentRequired: Field comments are required
+src/state/SemPapel.java:7:	CommentRequired: Field comments are required
+src/state/SemPapel.java:7:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/state/SemPapel.java:7:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/state/SemPapel.java:9:	CommentRequired: Public method and constructor comments are required
+src/state/SemPapel.java:9:	CommentRequired: Public method and constructor comments are required
+src/state/SemPapel.java:9:	MethodArgumentCouldBeFinal: Parameter 'newMaquina' is not assigned and could be declared final
+src/state/SemPapel.java:9:	MethodArgumentCouldBeFinal: Parameter 'newMaquina' is not assigned and could be declared final
+src/state/SemPapel.java:15:	MethodArgumentCouldBeFinal: Parameter 'dinheiro' is not assigned and could be declared final
+src/state/SemPapel.java:15:	MethodArgumentCouldBeFinal: Parameter 'dinheiro' is not assigned and could be declared final
+src/state/SemPapel.java:16:	SystemPrintln: System.out.println is used
+src/state/SemPapel.java:16:	SystemPrintln: System.out.println is used
+src/state/SemPapel.java:22:	SystemPrintln: System.out.println is used
+src/state/SemPapel.java:22:	SystemPrintln: System.out.println is used
+src/state/SemPapel.java:28:	SystemPrintln: System.out.println is used
+src/state/SemPapel.java:28:	SystemPrintln: System.out.println is used
+src/state/SemPapel.java:33:	MethodArgumentCouldBeFinal: Parameter 'senha' is not assigned and could be declared final
+src/state/SemPapel.java:33:	MethodArgumentCouldBeFinal: Parameter 'senha' is not assigned and could be declared final
+src/state/SemPapel.java:34:	SystemPrintln: System.out.println is used
+src/state/SemPapel.java:34:	SystemPrintln: System.out.println is used
+src/state/SenhaOk.java:5:	CommentRequired: Class comments are required
+src/state/SenhaOk.java:5:	CommentRequired: Class comments are required
+src/state/SenhaOk.java:7:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/state/SenhaOk.java:7:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/state/SenhaOk.java:7:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the maquina field if you want a default access modifier
+src/state/SenhaOk.java:7:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the maquina field if you want a default access modifier
+src/state/SenhaOk.java:7:	CommentRequired: Field comments are required
+src/state/SenhaOk.java:7:	CommentRequired: Field comments are required
+src/state/SenhaOk.java:7:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/state/SenhaOk.java:7:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/state/SenhaOk.java:9:	CommentRequired: Public method and constructor comments are required
+src/state/SenhaOk.java:9:	CommentRequired: Public method and constructor comments are required
+src/state/SenhaOk.java:9:	MethodArgumentCouldBeFinal: Parameter 'newMaquina' is not assigned and could be declared final
+src/state/SenhaOk.java:9:	MethodArgumentCouldBeFinal: Parameter 'newMaquina' is not assigned and could be declared final
+src/state/SenhaOk.java:15:	MethodArgumentCouldBeFinal: Parameter 'dinheiro' is not assigned and could be declared final
+src/state/SenhaOk.java:15:	MethodArgumentCouldBeFinal: Parameter 'dinheiro' is not assigned and could be declared final
+src/state/SenhaOk.java:18:	SystemPrintln: System.out.println is used
+src/state/SenhaOk.java:18:	SystemPrintln: System.out.println is used
+src/state/SenhaOk.java:19:	SystemPrintln: System.out.println is used
+src/state/SenhaOk.java:19:	SystemPrintln: System.out.println is used
+src/state/SenhaOk.java:22:	SystemPrintln: System.out.println is used
+src/state/SenhaOk.java:22:	SystemPrintln: System.out.println is used
+src/state/SenhaOk.java:25:	SystemPrintln: System.out.println is used
+src/state/SenhaOk.java:25:	SystemPrintln: System.out.println is used
+src/state/SenhaOk.java:37:	SystemPrintln: System.out.println is used
+src/state/SenhaOk.java:37:	SystemPrintln: System.out.println is used
+src/state/SenhaOk.java:43:	SystemPrintln: System.out.println is used
+src/state/SenhaOk.java:43:	SystemPrintln: System.out.println is used
+src/state/SenhaOk.java:49:	MethodArgumentCouldBeFinal: Parameter 'senha' is not assigned and could be declared final
+src/state/SenhaOk.java:49:	MethodArgumentCouldBeFinal: Parameter 'senha' is not assigned and could be declared final
+src/state/SenhaOk.java:50:	SystemPrintln: System.out.println is used
+src/state/SenhaOk.java:50:	SystemPrintln: System.out.println is used
+src/strategies/CeltaStrategy.java:6:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/strategies/CeltaStrategy.java:6:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/strategies/CeltaStrategy.java:6:	CommentRequired: Class comments are required
+src/strategies/CeltaStrategy.java:6:	CommentRequired: Class comments are required
+src/strategies/CeltaStrategy.java:8:	MethodArgumentCouldBeFinal: Parameter 't' is not assigned and could be declared final
+src/strategies/CeltaStrategy.java:8:	MethodArgumentCouldBeFinal: Parameter 't' is not assigned and could be declared final
+src/strategies/CeltaStrategy.java:8:	MethodArgumentCouldBeFinal: Parameter 'v' is not assigned and could be declared final
+src/strategies/CeltaStrategy.java:8:	MethodArgumentCouldBeFinal: Parameter 'v' is not assigned and could be declared final
+src/strategies/CeltaStrategy.java:8:	ShortVariable: Avoid variables with short names like t
+src/strategies/CeltaStrategy.java:8:	ShortVariable: Avoid variables with short names like t
+src/strategies/CeltaStrategy.java:8:	ShortVariable: Avoid variables with short names like v
+src/strategies/CeltaStrategy.java:8:	ShortVariable: Avoid variables with short names like v
+src/strategies/CeltaStrategy.java:9:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'total' (lines '9'-'11').
+src/strategies/CeltaStrategy.java:9:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'total' (lines '9'-'11').
+src/strategies/CeltaStrategy.java:9:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'total' (lines '9'-'13').
+src/strategies/CeltaStrategy.java:9:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'total' (lines '9'-'13').
+src/strategies/CeltaStrategy.java:10:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/strategies/CeltaStrategy.java:10:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/strategies/CeltaStrategy.java:10:	UseEqualsToCompareStrings: Use equals() to compare strings instead of '==' or '!='
+src/strategies/CeltaStrategy.java:10:	UseEqualsToCompareStrings: Use equals() to compare strings instead of '==' or '!='
+src/strategies/CeltaStrategy.java:13:	ControlStatementBraces: This statement should have braces
+src/strategies/CeltaStrategy.java:13:	ControlStatementBraces: This statement should have braces
+src/strategies/DoisReaisHoraStrategy.java:6:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/strategies/DoisReaisHoraStrategy.java:6:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/strategies/DoisReaisHoraStrategy.java:6:	CommentRequired: Class comments are required
+src/strategies/DoisReaisHoraStrategy.java:6:	CommentRequired: Class comments are required
+src/strategies/DoisReaisHoraStrategy.java:8:	MethodArgumentCouldBeFinal: Parameter 't' is not assigned and could be declared final
+src/strategies/DoisReaisHoraStrategy.java:8:	MethodArgumentCouldBeFinal: Parameter 't' is not assigned and could be declared final
+src/strategies/DoisReaisHoraStrategy.java:8:	MethodArgumentCouldBeFinal: Parameter 'v' is not assigned and could be declared final
+src/strategies/DoisReaisHoraStrategy.java:8:	MethodArgumentCouldBeFinal: Parameter 'v' is not assigned and could be declared final
+src/strategies/DoisReaisHoraStrategy.java:8:	ShortVariable: Avoid variables with short names like t
+src/strategies/DoisReaisHoraStrategy.java:8:	ShortVariable: Avoid variables with short names like t
+src/strategies/DoisReaisHoraStrategy.java:8:	ShortVariable: Avoid variables with short names like v
+src/strategies/DoisReaisHoraStrategy.java:8:	ShortVariable: Avoid variables with short names like v
+src/strategies/DoisReaisHoraStrategy.java:9:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'total' (lines '9'-'14').
+src/strategies/DoisReaisHoraStrategy.java:9:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'total' (lines '9'-'14').
+src/strategies/DoisReaisHoraStrategy.java:11:	LocalVariableCouldBeFinal: Local variable 'minutos' could be declared final
+src/strategies/DoisReaisHoraStrategy.java:11:	LocalVariableCouldBeFinal: Local variable 'minutos' could be declared final
+src/strategies/DoisReaisHoraStrategy.java:13:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/strategies/DoisReaisHoraStrategy.java:13:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/strategies/NullStrategy.java:6:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/strategies/NullStrategy.java:6:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/strategies/NullStrategy.java:6:	CommentRequired: Class comments are required
+src/strategies/NullStrategy.java:6:	CommentRequired: Class comments are required
+src/strategies/NullStrategy.java:9:	MethodArgumentCouldBeFinal: Parameter 't' is not assigned and could be declared final
+src/strategies/NullStrategy.java:9:	MethodArgumentCouldBeFinal: Parameter 't' is not assigned and could be declared final
+src/strategies/NullStrategy.java:9:	MethodArgumentCouldBeFinal: Parameter 'v' is not assigned and could be declared final
+src/strategies/NullStrategy.java:9:	MethodArgumentCouldBeFinal: Parameter 'v' is not assigned and could be declared final
+src/strategies/NullStrategy.java:9:	ShortVariable: Avoid variables with short names like t
+src/strategies/NullStrategy.java:9:	ShortVariable: Avoid variables with short names like t
+src/strategies/NullStrategy.java:9:	ShortVariable: Avoid variables with short names like v
+src/strategies/NullStrategy.java:9:	ShortVariable: Avoid variables with short names like v
+src/strategies/NullStrategy.java:10:	SystemPrintln: System.out.println is used
+src/strategies/NullStrategy.java:10:	SystemPrintln: System.out.println is used
+src/strategies/TresReaisHoraStrategy.java:6:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/strategies/TresReaisHoraStrategy.java:6:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/strategies/TresReaisHoraStrategy.java:6:	CommentRequired: Class comments are required
+src/strategies/TresReaisHoraStrategy.java:6:	CommentRequired: Class comments are required
+src/strategies/TresReaisHoraStrategy.java:8:	MethodArgumentCouldBeFinal: Parameter 't' is not assigned and could be declared final
+src/strategies/TresReaisHoraStrategy.java:8:	MethodArgumentCouldBeFinal: Parameter 't' is not assigned and could be declared final
+src/strategies/TresReaisHoraStrategy.java:8:	MethodArgumentCouldBeFinal: Parameter 'v' is not assigned and could be declared final
+src/strategies/TresReaisHoraStrategy.java:8:	MethodArgumentCouldBeFinal: Parameter 'v' is not assigned and could be declared final
+src/strategies/TresReaisHoraStrategy.java:8:	ShortVariable: Avoid variables with short names like t
+src/strategies/TresReaisHoraStrategy.java:8:	ShortVariable: Avoid variables with short names like t
+src/strategies/TresReaisHoraStrategy.java:8:	ShortVariable: Avoid variables with short names like v
+src/strategies/TresReaisHoraStrategy.java:8:	ShortVariable: Avoid variables with short names like v
+src/strategies/TresReaisHoraStrategy.java:9:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'total' (lines '9'-'14').
+src/strategies/TresReaisHoraStrategy.java:9:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'total' (lines '9'-'14').
+src/strategies/TresReaisHoraStrategy.java:11:	LocalVariableCouldBeFinal: Local variable 'minutos' could be declared final
+src/strategies/TresReaisHoraStrategy.java:11:	LocalVariableCouldBeFinal: Local variable 'minutos' could be declared final
+src/strategies/TresReaisHoraStrategy.java:13:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/strategies/TresReaisHoraStrategy.java:13:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/strategies/TresReaisHoraStrategy.java:17:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/strategies/TresReaisHoraStrategy.java:17:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/strategies/TresReaisHoraStrategy.java:17:	UseEqualsToCompareStrings: Use equals() to compare strings instead of '==' or '!='
+src/strategies/TresReaisHoraStrategy.java:17:	UseEqualsToCompareStrings: Use equals() to compare strings instead of '==' or '!='
+src/strategies/TresReaisHoraStrategy.java:18:	UseUnderscoresInNumericLiterals: Number 1000000000 should separate every third digit with an underscore
+src/strategies/TresReaisHoraStrategy.java:18:	UseUnderscoresInNumericLiterals: Number 1000000000 should separate every third digit with an underscore
